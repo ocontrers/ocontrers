@@ -34,5 +34,4 @@ del docente.
 
 
 ## 📫 Contacto
-- 💼 [LinkedIn](https://linkedin.com/in/TU-USUARIO)
-- 📧 tucorreo@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/oscar-contreras-7a621850/)
