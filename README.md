@@ -29,6 +29,7 @@ manejo de errores y envío de alertas en tiempo real, eliminando la gestión man
 del docente.
 
 **Stack:** n8n · Google Workspace · OAuth · Automatización de flujos
+(https://github.com/ocontrers/n8n-Demeritos-SV)
 
 ---
 
