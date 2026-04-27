@@ -1,9 +1,10 @@
 # ¡Hola! Soy Oscar Contreras 👋
 
 ## 🙋‍♂️ Sobre mí
-Soy desarrollador web en formación, apasionado por construir soluciones digitales.
-Actualmente estoy aprendiendo desarrollo fullstack con tecnologías modernas.
-Me interesa el diseño de interfaces y el desarrollo de APIs robustas.
+Soy docente técnico en proceso de transformación digital, apasionado por integrar
+la tecnología en la educación. Actualmente me encuentro en un bootcamp fullstack
+donde combino automatización, desarrollo web y uso pedagógico de la IA.
+Me interesa construir herramientas que mejoren los procesos educativos.
 
 ## 🛠️ Tecnologías
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,11 +17,34 @@ Me interesa el diseño de interfaces y el desarrollo de APIs robustas.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ## 📂 Proyectos
-### 🔧 Proyecto Bootcamp
-Descripción breve de lo que hace el proyecto.
-[Ver repositorio](https://github.com/ocontrers/NOMBRE-DEL-REPO)
+
+### 🤖 Sistema de Notificación Automática de Deméritoss — n8n
+> En proceso de desarrollo
+
+Automatización construida con **n8n** que notifica a padres de familia de forma
+automática cuando un estudiante acumula demeritos. El flujo integra Google Workspace,
+manejo de errores y envío de alertas en tiempo real, eliminando la gestión manual
+del docente.
+
+**Stack:** n8n · Google Workspace · OAuth · Automatización de flujos
+
+---
+
+## 🚀 Roadmap de aprendizaje — Transformación Digital para la Docencia Técnica
+
+| # | Módulo | Enfoque | Estado |
+|---|--------|---------|--------|
+| 1 | Fundamentos de IA y Prompt Engineering | Uso pedagógico de IA | 🔄 En curso |
+| 2 | Automatización con n8n y Agentes de IA | Optimización de procesos docentes | 🔄 En curso |
+| 3 | Lógica, Entorno y Estructura Web | Base técnica y pensamiento computacional | ⏳ Próximo |
+| 4 | Maquetación y Diseño de Interfaces | Interfaces educativas funcionales | ⏳ Próximo |
+| 5 | Bases de Datos | Gestión estructurada de información | ⏳ Próximo |
+| 6 | Backend y API RESTful | Lógica de negocio y servicios | ⏳ Próximo |
+| 7 | Frontend Dinámico con React | Experiencia de usuario y APIs | ⏳ Próximo |
+| 8 | Despliegue | Puesta en producción con Docker | ⏳ Próximo |
 
 ## 📫 Contacto
 - 💼 [LinkedIn](https://linkedin.com/in/TU-USUARIO)
