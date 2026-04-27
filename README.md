@@ -22,7 +22,6 @@ Me interesa construir herramientas que mejoren los procesos educativos.
 ## 📂 Proyectos
 
 ### 🤖 Sistema de Notificación Automática de Deméritoss — n8n
-> En proceso de desarrollo
 
 Automatización construida con **n8n** que notifica a padres de familia de forma
 automática cuando un estudiante acumula demeritos. El flujo integra Google Workspace,
@@ -33,18 +32,6 @@ del docente.
 
 ---
 
-## 🚀 Roadmap de aprendizaje — Transformación Digital para la Docencia Técnica
-
-| # | Módulo | Enfoque | Estado |
-|---|--------|---------|--------|
-| 1 | Fundamentos de IA y Prompt Engineering | Uso pedagógico de IA | 🔄 En curso |
-| 2 | Automatización con n8n y Agentes de IA | Optimización de procesos docentes | 🔄 En curso |
-| 3 | Lógica, Entorno y Estructura Web | Base técnica y pensamiento computacional | ⏳ Próximo |
-| 4 | Maquetación y Diseño de Interfaces | Interfaces educativas funcionales | ⏳ Próximo |
-| 5 | Bases de Datos | Gestión estructurada de información | ⏳ Próximo |
-| 6 | Backend y API RESTful | Lógica de negocio y servicios | ⏳ Próximo |
-| 7 | Frontend Dinámico con React | Experiencia de usuario y APIs | ⏳ Próximo |
-| 8 | Despliegue | Puesta en producción con Docker | ⏳ Próximo |
 
 ## 📫 Contacto
 - 💼 [LinkedIn](https://linkedin.com/in/TU-USUARIO)
